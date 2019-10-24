@@ -62,3 +62,4 @@ typings/
 
 ssl/
 themes/
+.package-lock.json
